@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "..\Proyecto_toipicos\HelloWorld\HelloWorld\HelloWorld.csproj", "{3ED1749D-8819-42E1-B7BF-8027E986AF40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Veintiuno.Naipe", "..\Proyecto_toipicos\HelloWorld\HelloWorld.Veintiuno.Naipe\HelloWorld.Veintiuno.Naipe.csproj", "{21038963-CAD4-4834-8EC8-314036C4E835}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Veintiuno.Modelo", "..\Proyecto_toipicos\HelloWorld\HelloWorld.Veintiuno.Modelo\HelloWorld.Veintiuno.Modelo.csproj", "{767B3552-E53D-4F32-B2E6-843DD947A0D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreNorthWind.Model", "..\Proyecto_toipicos\HelloWorld\EFCoreNorthWind.Model\EFCoreNorthWind.Model.csproj", "{ACB47D03-3C6A-4B79-B3E9-AA6C107970F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreNorthWind.DataAccess", "..\Proyecto_toipicos\HelloWorld\EFCoreNorthWind.DataAccess\EFCoreNorthWind.DataAccess.csproj", "{D4FD3E43-F21F-4EA0-8FA4-228DAE640B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED1749D-8819-42E1-B7BF-8027E986AF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED1749D-8819-42E1-B7BF-8027E986AF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED1749D-8819-42E1-B7BF-8027E986AF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED1749D-8819-42E1-B7BF-8027E986AF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21038963-CAD4-4834-8EC8-314036C4E835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21038963-CAD4-4834-8EC8-314036C4E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21038963-CAD4-4834-8EC8-314036C4E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21038963-CAD4-4834-8EC8-314036C4E835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767B3552-E53D-4F32-B2E6-843DD947A0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767B3552-E53D-4F32-B2E6-843DD947A0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767B3552-E53D-4F32-B2E6-843DD947A0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767B3552-E53D-4F32-B2E6-843DD947A0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB47D03-3C6A-4B79-B3E9-AA6C107970F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB47D03-3C6A-4B79-B3E9-AA6C107970F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB47D03-3C6A-4B79-B3E9-AA6C107970F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB47D03-3C6A-4B79-B3E9-AA6C107970F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FD3E43-F21F-4EA0-8FA4-228DAE640B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FD3E43-F21F-4EA0-8FA4-228DAE640B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FD3E43-F21F-4EA0-8FA4-228DAE640B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FD3E43-F21F-4EA0-8FA4-228DAE640B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127ADE5B-36BA-4F23-9E8B-64CF575D286E}
+	EndGlobalSection
+EndGlobal
